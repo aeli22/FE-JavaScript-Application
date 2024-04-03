@@ -4,3 +4,5 @@ let user = {
   name: "예린",
   part: "FE",
 };
+const json=JSON.stringify(user);
+const obj=JSON.parsed(json);

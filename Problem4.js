@@ -4,7 +4,7 @@ let user = {
   name: "지환",
   years: 24,
 };
-
+let{name:Name,years:age,isAdmine=false}=user;
 // 아래에 코드를 작성해주세요 ~
 
 alert(Name); // "지환"

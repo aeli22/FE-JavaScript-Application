@@ -7,4 +7,8 @@ let lionMoney = {
   영주: 8300,
   재혁: 2800,
   동재: 50000,
+
 };
+ for(let i in lionMoney){console.log(i,lionMoney[i]);}
+
+
